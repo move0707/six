@@ -1,3 +1,25 @@
+ethnic 少数民族的人
+ethnic minory 少数民族
+province 省
+square kilometers 平方公里
+altitude 海拔
+西部：the western part
+form：形成
+steep：陡峭的
+fertile 肥沃的
+soil 土壤
+be good for 有利于
+different kinds of 多种
+biological：生物的
+diversity：多样性
+mineral：矿产
+rich：丰富的
+be rich in：富含、盛产
+the origin of ...的起源
+数量最多：the largest number of
+丰富多彩的：colorful
+
+
 be located on 位于
 southwest of  西南
 Tiananmen Square 天安门广场
@@ -18,3 +40,29 @@ saying 说法
 be regard as  被认为
 construction 建造
 年份前用in
+
+产业 ：industry
+出口：import volume 出口量
+进口： export
+跃升为：go up to
+被喜爱： be favored by
+消费者：consumer
+出色的：outstanding excellent
+因为...：owing to +名
+方便的：convenient   user-friendly(用户友好，方便操作)
+拍摄能力：shooting ability
+在民用领域：in the civilian field
+被纳入：be included
+战略性新兴产业：strategic novel industry
+国家 ：the state    country
+人工智能：artificial intelligence
+助手：assisant
+满足（.v）：meet
+场景：occasion
+在农村：in the rural areas   village 村子    农作物：crop     灾害：disease   害虫：peat  
+喷洒农药：spray pesticide  化肥：fertilizer
+识别(v)：identify   精准地：accurately  accuracy accurate(adj)
+高效的：efficient  运输：deliver delivery(n.快递)
+在不久将来：in the near future  将来能够：will be able to
+实现独特的价值：realize their unique value
+注入：inject...into...  动能：momentum
