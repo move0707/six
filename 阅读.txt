@@ -1,3 +1,29 @@
+Alleviate	v.	缓解；减轻
+Clarity	n.	清晰；清晰度
+Cognitive	adj.	认知的
+Composer	n.	作曲家
+Loose	adj.	松开的；释放的
+Soothing	adj.	抚慰的；舒缓的
+Ward	n.	病房；病区
+Intrinsically	adv.	内在地；本质上
+Mandatory	adj.	强制性的；必须的
+Majestic	adj.	雄伟的；壮丽的
+Inhibiting	adj./v.	抑制的；抑制
+Interrogation	n.	讯问；审问
+Appeal	n./v.	吸引力；吸引
+Extravagantly	adv.	奢侈地；挥霍地
+Irony	n.	讽刺；反差
+Layman	n.	外行；非专业人士
+Literally	adv.	字面上地；真正地
+Malicious	adj.	恶意的；怀有恶意的
+Meadow	n.	草地；牧场
+Mingle	v.	交往；混合
+Predator	n.	捕食者；掠夺者
+Rage	n.	愤怒；狂热
+Scrape	v./n.	刮；勉强维持
+Shrewd	adj.	精明的；有判断力的
+Thrifty	adj.	节俭的；节约的
+
 wickedness 邪恶
 Fear 害怕
 suffer 痛苦

@@ -8,6 +8,7 @@
 设宴 hold a dinner
 敬酒 make a toast
 体验 experience
+机构 institution
 
 elderly 老年人
 elderly care 养老
