@@ -1,3 +1,16 @@
+sacrifice 牺牲
+zealous 狂热的
+stun 震惊
+perpetual 持久的
+permanent 永久的
+exploit 利用
+
+vibration 震动
+emissions 排放物
+contaminate 污染
+rotate 旋转
+weed 杂草
+
 Alleviate	v.	缓解；减轻
 Clarity	n.	清晰；清晰度
 Cognitive	adj.	认知的
